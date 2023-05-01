@@ -18,3 +18,4 @@ This Device is made with Three Major Considerations:
 Safety: The safety of an Individual is ensured by the device through constant monitoring of Various Parameters.
 Connectivity: The Device is connected through a Dedicated SIM Card and a GPS Module that sends an Emergency Alert to the Family in case of Abnormality.
 Consistency: The Device stores the past data of the Patient which helps in the Future Monitoring of Diseases.
+ 
